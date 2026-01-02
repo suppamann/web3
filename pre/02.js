@@ -17,5 +17,5 @@ console.log(res);
 
 /* 
 * assignment 1 and 2 are all about PROOF OF WORK
-* prefix and nonce
+* prefix and nonce--> the random number that you are trying to find
 */
